@@ -1,5 +1,5 @@
-![IMG_20210924_183544](https://user-images.githubusercontent.com/12032605/144592178-241d3673-aecd-458c-95ea-8bf568ecdf4c.jpg =250x250)
 
+<img src="https://user-images.githubusercontent.com/12032605/144592178-241d3673-aecd-458c-95ea-8bf568ecdf4c.jpg" width="48">
 
 https://user-images.githubusercontent.com/12032605/144593895-142e1e6e-6bde-4be6-915e-ca3745a1a5f4.mp4
 https://user-images.githubusercontent.com/12032605/144593904-b06fa253-6bf7-4199-a8b3-f0614a0324da.mp4
