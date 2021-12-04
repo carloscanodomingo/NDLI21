@@ -23,7 +23,6 @@ The numbero of different addresses is 7 x 7 x 3 = 147.
 
 This repository uses an ESP32 as the central processor for managing all the peripherals, including the CUBE 3D LEDs. 
 The Connection between the 3D Cube and the ESP32 is made by an SPI transfer Using the library FASTLED.
-![IMG_20210924_140904](https://user-images.githubusercontent.com/12032605/144593162-5a099aeb-b24c-4954-af2d-d59cd6099dee.jpg)
 
 In this example, we use other sensors to change the color pattern of the 3D-Cube. 
 1. Joystick to move a small 3D-cube pattern inside the 3D-Cube.
